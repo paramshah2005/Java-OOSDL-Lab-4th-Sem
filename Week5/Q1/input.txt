@@ -1,0 +1,10 @@
+Welcome to Java File Handling Lab.
+
+This file is used to demonstrate Input and Output Streams in Java.
+FileInputStream and FileOutputStream work with byte data.
+FileReader and FileWriter are used for character-based file operations.
+
+Learning Java I/O streams helps in real-world applications
+such as reading configuration files, logs, and user data.
+
+End of sample input file.

@@ -1,0 +1,10 @@
+Java Character Stream Test File
+
+This text file is used to verify FileReader and FileWriter operations.
+Character streams are designed specifically for handling text data.
+They automatically manage character encoding and line breaks.
+
+Q2 focuses on copying text from one file to another
+while preserving the original formatting and content.
+
+End of Q2 sample text.
